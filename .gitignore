@@ -1,0 +1,6 @@
+*.env
+/.ipynb*
+/datasets/test*
+/datasets/train*
+ensemble*
+kaggle*
