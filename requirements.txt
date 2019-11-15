@@ -112,3 +112,4 @@ ipywidgets==7.4.2
 bigml
 kaggle
 rise
+jupyter_contrib_nbextensions
